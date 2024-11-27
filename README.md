@@ -1,2 +1,2 @@
-# bp-network
-bp神经网络
+# LSTM时序预测学习
+# 1.bp神经网络学习
